@@ -1,0 +1,113 @@
+/* [wxMaxima batch file version 1] [ DO NOT EDIT BY HAND! ]*/
+/* [ Created with wxMaxima version 13.04.2 ] */
+
+/* [wxMaxima: section start ]
+Dispositivos Eletromagnéticos
+   [wxMaxima: section end   ] */
+
+/* [wxMaxima: subsect start ]
+Circuitos Magnéticos e Materiais Magnéticos
+   [wxMaxima: subsect end   ] */
+
+/* [wxMaxima: comment start ]
+Excitação CA
+   [wxMaxima: comment end   ] */
+
+/* [wxMaxima: comment start ]
+Exemplo 1.8
+   [wxMaxima: comment end   ] */
+
+/* [wxMaxima: comment start ]
+Declaração de constante:
+   [wxMaxima: comment end   ] */
+
+/* [wxMaxima: input   start ] */
+mu0:4*%pi*10^(-7);
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: comment start ]
+Dados:
+   [wxMaxima: comment end   ] */
+
+/* [wxMaxima: input   start ] */
+Bc(t):=1.5*sin(2*%pi*60*t);
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+pol:0.0256;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+Ac:4*pol^2*0.94;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+N:200;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: comment start ]
+Força Eletromotriz:
+   [wxMaxima: comment end   ] */
+
+/* [wxMaxima: input   start ] */
+E:N*Ac*diff(Bc(t),t,1), numer;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: comment start ]
+Comprimento do núcleo:
+   [wxMaxima: comment end   ] */
+
+/* [wxMaxima: input   start ] */
+lc:(6+6+8+8)*pol;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: comment start ]
+Consultando a curva de magnetização CC:
+   [wxMaxima: comment end   ] */
+
+/* [wxMaxima: input   start ] */
+Hmax:36;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+Bmax: 1.5;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: comment start ]
+Permeabilidade relativa:
+   [wxMaxima: comment end   ] */
+
+/* [wxMaxima: input   start ] */
+mur:Bmax/(mu0*Hmax), numer;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: comment start ]
+Corrente de pico:
+   [wxMaxima: comment end   ] */
+
+/* [wxMaxima: input   start ] */
+Ipico: Hmax*lc/N;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: comment start ]
+Consultando a tabela de VA eficaz por kilograma a 60 Hz:
+   [wxMaxima: comment end   ] */
+
+/* [wxMaxima: input   start ] */
+Pa:1.5*13.2;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+Ief:Pa/(278*sqrt(2)/2), numer;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: comment start ]
+Perdas no nucleo: Tabela de perdas:
+   [wxMaxima: comment end   ] */
+
+/* [wxMaxima: input   start ] */
+Pc: 1.2*13.2;
+/* [wxMaxima: input   end   ] */
+
+/* Maxima can't load/batch files which end with a comment! */
+"Created with wxMaxima"$
