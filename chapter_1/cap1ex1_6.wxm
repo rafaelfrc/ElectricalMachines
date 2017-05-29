@@ -1,0 +1,37 @@
+/* [wxMaxima batch file version 1] [ DO NOT EDIT BY HAND! ]*/
+/* [ Created with wxMaxima version 13.04.2 ] */
+
+/* [wxMaxima: section start ]
+Dispositivos Eletromagnéticos
+   [wxMaxima: section end   ] */
+
+/* [wxMaxima: subsect start ]
+Circuitos Magnéticos e Materiais Magnéticos
+   [wxMaxima: subsect end   ] */
+
+/* [wxMaxima: comment start ]
+Fluxo concatenado, indutância e energia
+   [wxMaxima: comment end   ] */
+
+/* [wxMaxima: comment start ]
+Exemplo 1.6
+   [wxMaxima: comment end   ] */
+
+/* [wxMaxima: input   start ] */
+Bc(t):=1*sin(377*t);
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+Ac:0.0009;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+N:500;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+N*Ac*diff(Bc(t),t,1);
+/* [wxMaxima: input   end   ] */
+
+/* Maxima can't load/batch files which end with a comment! */
+"Created with wxMaxima"$
