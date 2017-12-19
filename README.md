@@ -23,3 +23,8 @@ Algebra problems has been solved with Symbolic Algebra System maxima: http://and
 * Exa 1.6: https://en.smath.info/cloud/worksheet/ruTBbnPb
 
 ### Properties of magnetic materials 
+* Exa 1.7: https://en.smath.info/cloud/worksheet/uG3uE6Qe
+
+### AC Excitation
+* Exa 1.8: https://en.smath.info/cloud/worksheet/8aan88rE
+
