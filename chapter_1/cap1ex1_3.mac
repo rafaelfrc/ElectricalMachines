@@ -1,0 +1,35 @@
+
+/*
+Dispositivos Eletromagnéticos
+*/
+
+/*
+Circuitos Magnéticos e Materiais Magnéticos
+*/
+
+/*
+Fluxo concatenado, indutância e energia
+*/
+
+/*
+Exemplo 1.3
+*/
+
+R1:g1/(mu0*A1);
+
+R2:g2/(mu0*A2);
+
+R:(R1*R2)/(R1+R2);
+
+phi:(N*i)/R;
+
+L:N*phi/i;
+
+ratsimp(%);
+
+factor(%);
+
+phi1:N*i/R1;
+
+B1:phi1/A1;
+
