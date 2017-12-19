@@ -25,6 +25,16 @@ Algebra problems has been solved with Symbolic Algebra System maxima: http://and
 ### Properties of magnetic materials 
 * Exa 1.7: https://en.smath.info/cloud/worksheet/uG3uE6Qe
 
-### AC Excitation
+### AC excitation
+
 * Exa 1.8: https://en.smath.info/cloud/worksheet/8aan88rE
+
+### Permanent magnets
+
+* Exa 1.9
+* Exa 1.10
+
+###  Application of Permanent magnets materials
+
+* Exa 1.11
 
