@@ -15,5 +15,11 @@ Algebra problems has been solved with Symbolic Algebra System maxima: http://and
 
 * Exa 1.1: https://en.smath.info/cloud/worksheet/cQVPmxzR
 * Exa 1.2: https://en.smath.info/cloud/worksheet/dovn8Nz2
+
+### Flux linkage, inductance and energy
+
 * Exa 1.3: [chapter_1/cap1ex1_3.mac](chapter_1/cap1ex1_3.mac)
+* Exa 1.4: https://en.smath.info/cloud/worksheet/yNZ66w7k
+* Exa 1.5: https://en.smath.info/cloud/worksheet/KmRmWQby
+* Exa 1.6: https://en.smath.info/cloud/worksheet/ruTBbnPb
 
