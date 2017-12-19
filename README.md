@@ -15,4 +15,5 @@ Algebra problems has been solved with Symbolic Algebra System maxima: http://and
 
 * Exa 1.1: https://en.smath.info/cloud/worksheet/cQVPmxzR
 * Exa 1.2: https://en.smath.info/cloud/worksheet/dovn8Nz2
-* Exa 1.3: 
+* Exa 1.3: chapter_1/cap1ex1_3.mac
+
