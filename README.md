@@ -1,7 +1,6 @@
 # ElectricalMachines
 Computer solutions for engineering problems of Electric Machines.
-
-Book Used: Fitzgerald, Arthur Eugene, et al. Electric machinery. Máquinas eléctricas. 1992.
+Fitzgerald, Arthur Eugene, et al. Electric machinery. Máquinas eléctricas. 1992.
 
 ## Softwares:
 Simple simple problems has been solved with SMath Studio: https://en.smath.info/cloud/
