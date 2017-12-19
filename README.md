@@ -23,3 +23,4 @@ Algebra problems has been solved with Symbolic Algebra System maxima: http://and
 * Exa 1.5: https://en.smath.info/cloud/worksheet/KmRmWQby
 * Exa 1.6: https://en.smath.info/cloud/worksheet/ruTBbnPb
 
+### Properties of magnetic materials 
