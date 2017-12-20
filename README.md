@@ -3,7 +3,7 @@ Computer solutions for engineering problems of Electric Machines.
 Fitzgerald, Arthur Eugene, et al. Electric machinery. Máquinas eléctricas. 1992.
 
 ## Softwares:
-Simple simple problems has been solved with SMath Studio: https://en.smath.info/cloud/
+Simple problems has been solved with SMath Studio: https://en.smath.info/cloud/
 
 Code and numerical problems has been solved with GNU Octave: https://www.gnu.org/software/octave/
 
@@ -31,7 +31,7 @@ Algebra problems has been solved with Symbolic Algebra System maxima: http://and
 
 ### Permanent magnets
 
-* Exa 1.9
+* Exa 1.9 
 * Exa 1.10
 
 ###  Application of Permanent magnets materials
