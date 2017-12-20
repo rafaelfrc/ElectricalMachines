@@ -32,7 +32,7 @@ Algebra problems has been solved with Symbolic Algebra System maxima: http://and
 ### Permanent magnets
 
 * Exa 1.9: [chapter_1/cap1ex1_9.md](chapter_1/cap1ex1_9.md) - pt_BR
-* Exa 1.10
+* Exa 1.10 https://en.smath.info/cloud/worksheet/Rp5yoQpT
 
 ###  Application of Permanent magnets materials
 
