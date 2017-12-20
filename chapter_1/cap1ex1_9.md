@@ -1,12 +1,13 @@
-#Máquinas Elétricas
 
-##Circuitos Magnéticos e Materiais Magnéticos
+# Máquinas Elétricas
 
-###Imãs Permanentes
+## Circuitos Magnéticos e Materiais Magnéticos
 
-####Exemplo 1.9
+### Imãs Permanentes
 
-A primeira consideração a fazer é supor $H_l$ desprezível, porque, como $\mu$ é infinito, se considerássemos $H_l$ finito, $B_l$ teria que ser infinito.
+#### Exemplo 1.9
+
+A primeira consideração a fazer é supor $ H_l $ desprezível, porque, como $\mu$ é infinito, se considerássemos $H_l$ finito, $B_l$ teria que ser infinito.
 
 Como o circuito é constituído por uma malha somente de elementos em série, as duas condições que tem que ser satisfeitas são a "lei das malhas" e a "lei dos nós":
 
