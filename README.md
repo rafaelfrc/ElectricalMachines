@@ -36,5 +36,5 @@ Algebra problems has been solved with Symbolic Algebra System maxima: http://and
 
 ###  Application of permanent magnets materials
 
-* Exa 1.11
+* Exa 1.11 https://en.smath.info/cloud/worksheet/4XF5maXH
 
