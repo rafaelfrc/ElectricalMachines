@@ -2,7 +2,7 @@
 ## Magnetic Circuits and Magnetic Materials
 ### Introduction to magnetic circuits
 
-* Exa 1.1: https://en.smath.info/cloud/worksheet/cQVPmxzR
+* Exa 1.1: https://en.smath.info/cloud/worksheet/gz7hoT5C
 * Exa 1.2: https://en.smath.info/cloud/worksheet/dovn8Nz2
 
 ### Flux linkage, inductance and energy
