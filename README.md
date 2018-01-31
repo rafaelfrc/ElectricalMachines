@@ -11,4 +11,4 @@ Algebra problems has been solved with Symbolic Algebra System maxima:
 http://andrejv.github.io/wxmaxima/
 
 ## Chapters
-*  [Chapter 1:](chapter_1/cap1.md)
+*  [Chapter 1](chapter_1/cap1.md)
