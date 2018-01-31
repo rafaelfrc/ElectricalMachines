@@ -4,6 +4,7 @@
 * Exa 1.1: https://en.smath.info/cloud/worksheet/gz7hoT5C
 * Exa 1.2: https://en.smath.info/cloud/worksheet/KQ3oTnzk
 * Ppp 1.1: https://en.smath.info/cloud/worksheet/5mNrs3nv
+* Ppp 1.2: https://en.smath.info/cloud/worksheet/UNZkg3ku
 
 ### Flux linkage, inductance and energy
 
