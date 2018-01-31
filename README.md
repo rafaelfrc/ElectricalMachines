@@ -12,3 +12,4 @@ http://andrejv.github.io/wxmaxima/
 
 ## Chapters
 *  [Chapter 1](chapter_1/chapter_1.md)
+*  [Chapter 2](chapter_2/chapter_2.md)
