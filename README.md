@@ -4,11 +4,7 @@ Computer solutions for engineering problems of Umans, Stephen D. Máquinas Elét
 ## Softwares:
 Simple problems has been solved with SMath Studio: https://en.smath.info/cloud/
 
-Code and numerical problems has been solved with GNU Octave and Python 3 kernels 
-in Jupyter Notebooks: http://jupyter.org/
-
-Algebra problems has been solved with Symbolic Algebra System maxima: 
-http://andrejv.github.io/wxmaxima/
+Code, numerical and symbolic problems has been solved with SciPy ecosystem, Python 3 in Jupyter Notebooks: http://jupyter.org/
 
 ## Chapters
 *  [Chapter 1](chapter_1/chapter_1.md)
