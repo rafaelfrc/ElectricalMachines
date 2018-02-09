@@ -8,7 +8,7 @@
 
 ### Flux linkage, inductance and energy
 
-* Exa 1.3: [chapter_1/cap1ex1_3.mac](cap1ex1_3.mac)
+* Exa 1.3: [chapter_1/cap1ex1_3.ipynb](cap1ex1_3.ipynb)
 * Exa 1.4: https://en.smath.info/cloud/worksheet/yNZ66w7k
 * Exa 1.5: https://en.smath.info/cloud/worksheet/KmRmWQby
 * Exa 1.6: https://en.smath.info/cloud/worksheet/ruTBbnPb
