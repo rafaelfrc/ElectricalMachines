@@ -4,7 +4,7 @@ Computer solutions for engineering problems of Umans, Stephen D. Máquinas Elét
 ## Softwares:
 Simple problems has been solved with SMath Studio: https://en.smath.info/cloud/
 
-Code, numerical and symbolic problems has been solved with SciPy ecosystem, Python 3 in Jupyter Notebooks: http://jupyter.org/
+Code, numerical and symbolic problems has been solved with ScyPy ecosystem, Python 3 in Jupyter Notebooks: http://jupyter.org/
 
 ## Chapters
 *  [Chapter 1](chapter_1/chapter_1.md)
