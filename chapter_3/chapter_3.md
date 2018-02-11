@@ -5,4 +5,7 @@
 
 ### Energy in Single Excitation Magnetic Field Systems
 * Exa 3.2: [chapter_3/cap3ex3_2.ipynb](cap3ex3_2.ipynb)
-* Ppa 3.3: [chapter_3/cap3pp3_2.ipynb](cap3pp3_2.ipynb)
+* Ppp 3.3: [chapter_3/cap3pp3_2.ipynb](cap3pp3_2.ipynb)
+
+### Determination of magnetic force and torque conjugate from energy
+* Exa 3.3: [chapter_3/cap3ex3_3.ipynb](cap3ex3_3.ipynb)
