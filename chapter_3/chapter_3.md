@@ -9,3 +9,7 @@
 
 ### Determination of magnetic force and torque conjugate from energy
 * Exa 3.3: [chapter_3/cap3ex3_3.ipynb](cap3ex3_3.ipynb)
+
+### Determination of magnetic force and torque conjugate from co-energy
+* Exa 3.5: [chapter_3/cap3ex3_5.ipynb](cap3ex3_5.ipynb)
+* Ppp 3.3: [chapter_3/cap3pp3_5.ipynb](cap3pp3_5.ipynb)
