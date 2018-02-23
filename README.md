@@ -7,6 +7,6 @@ Simple problems has been solved with SMath Studio: https://en.smath.info/cloud/
 Code, numerical and symbolic problems has been solved with ScyPy ecosystem, Python 3 in Jupyter Notebooks: http://jupyter.org/
 
 ## Chapters
-*  [Chapter 1](chapter_1/chapter_1.md)
-*  [Chapter 2](chapter_2/chapter_2.md)
-*  [Chapter 3](chapter_3/chapter_3.md)
+*  [Magnetic Circuits and Magnetic Materials](chapter_1/chapter_1.md)
+*  [Transformers](chapter_2/chapter_2.md)
+*  [Principles of Electromechanical Energy Conversion](chapter_3/chapter_3.md)
