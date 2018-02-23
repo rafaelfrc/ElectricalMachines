@@ -22,5 +22,5 @@
 
 ### Forces and torque in systems with permanent magnets
 * Ex 3.8: [chapter_3/cap3ex3_8.ipynb](cap3ex3_8.ipynb)
-* Pp 3.8: [chapter_3/cap3ex3_8.ipynb](cap3ex3_8.ipynb)
-* Ex 3.9: [chapter_3/cap3ex3_9.ipynb](cap3ex3_5.ipynb)
+* Pp 3.8: [chapter_3/cap3ex3_8.ipynb](cap3pp3_8.ipynb)
+* Ex 3.9: [chapter_3/cap3ex3_9.ipynb](cap3ex3_9.ipynb)
