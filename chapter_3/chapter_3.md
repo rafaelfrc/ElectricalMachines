@@ -27,3 +27,6 @@
 
 ### Dynamic Equations
 * Ex 3.10: [chapter_3/cap3ex3_10.ipynb](cap3ex3_10.ipynb)
+
+### Analytical Techniques
+* Ex 3.11: [chapter_3/cap3ex3_11.slx](cap3ex3_11.slx)
