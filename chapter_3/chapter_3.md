@@ -1,4 +1,4 @@
-## Electromechanical-Energy-Conversion Principles
+## Electromechanical Energy Conversion Principles
 ### Forces and Torques in Magnetic Field Systems
 * Ex 3.1 and Pp 3.1: [chapter_3/cap3ex3_1.ipynb](cap3ex3_1.ipynb)
 
