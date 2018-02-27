@@ -32,4 +32,4 @@
 * Ex 3.11: [chapter_3/cap3ex3_11.slx](cap3ex3_11.slx)
 
 ### Problems
-* Problemas: [cap3_problems](chapter_3/cap3_problemas/problemas.md)
+* [Problemas](cap3_problemas/problemas.md)
