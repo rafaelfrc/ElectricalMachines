@@ -7,3 +7,4 @@
 [Problem 3.5](cap3prob05.ipynb)    
 [Problem 3.6](cap3prob06.ipynb)   
 [Problem 3.7](cap3prob07.ipynb)  
+[Problem 3.8](cap3prob08.ipynb)
