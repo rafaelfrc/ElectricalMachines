@@ -14,4 +14,5 @@
 [Problem 3.12](cap3prob12.ipynb)  
 [Problem 3.13](cap3prob13.ipynb)  
 [Problem 3.14](cap3prob14.ipynb)  
+[Problem 3.15](cap3prob15.ipynb)  
 
