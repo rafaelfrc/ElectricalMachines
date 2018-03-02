@@ -12,6 +12,6 @@
 [Problem 3.10](cap3prob10.ipynb)  
 [Problem 3.11](cap3prob11.ipynb)  
 [Problem 3.12](cap3prob12.ipynb)  
-[Problem 3.13](cap3prob13.ipynb)
-[Problem 3.13](cap3prob14.ipynb)  
+[Problem 3.13](cap3prob13.ipynb)  
+[Problem 3.14](cap3prob14.ipynb)  
 
