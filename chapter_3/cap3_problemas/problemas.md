@@ -10,3 +10,4 @@
 [Problem 3.8](cap3prob08.ipynb)  
 [Problem 3.9](cap3prob09.ipynb)  
 [Problem 3.10](cap3prob10.ipynb)  
+[Problem 3.11](cap3prob11.ipynb)  
