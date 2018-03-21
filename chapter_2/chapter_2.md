@@ -13,7 +13,4 @@
 ### Transformer analysis engineering aspects
 * Ex 2.4: [cap2ex2_4](https://en.smath.info/cloud/worksheet/eHmeKXLg)  
 * Ex 2.5: [cap2ex2_5](https://en.smath.info/cloud/worksheet/SFpRBKkR)  
-
-
-
-
+* Pp 2.3: [cap2pp2_3](https://en.smath.info/cloud/worksheet/mDTRHqYU)  
