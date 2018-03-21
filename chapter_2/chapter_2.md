@@ -11,7 +11,7 @@
 * Pp 3.2: [cap2pp3_2](https://en.smath.info/cloud/worksheet/KyEFqS2e)  
 
 ### Transformer analysis engineering aspects
-* Ex 3.3: [cap2ex3_4](https://en.smath.info/cloud/worksheet/7u3QVrs)  
+* Ex 3.3: [cap2ex3_4](https://en.smath.info/cloud/worksheet/eHmeKXLg)  
 
 
 
