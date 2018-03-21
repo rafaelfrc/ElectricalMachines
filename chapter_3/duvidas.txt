@@ -1,1 +1,0 @@
-Exemplo 3.3 e PP3.3: erro no polyfit
