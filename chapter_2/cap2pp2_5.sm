@@ -4,7 +4,7 @@
   <settings>
     <identity>
       <id>a7424367-de96-4db2-a2f2-46bacedbab6b</id>
-      <revision>66</revision>
+      <revision>67</revision>
     </identity>
     <calculation>
       <precision>4</precision>
@@ -41,7 +41,7 @@
   </region>
   <region id="3" left="18" top="117" width="168" height="23" color="#000000" bgColor="#ffffff" fontSize="10">
     <text lang="por">
-      <p>Problema Prático 2.7</p>
+      <p>Problema Prático 2.5</p>
     </text>
   </region>
   <region id="4" left="18" top="144" width="192" height="23" color="#000000" bgColor="#ffffff" fontSize="10">
