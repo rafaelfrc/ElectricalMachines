@@ -19,3 +19,4 @@
 
 ### Autotransformers
 * Ex 2.7: [cap2ex2_7](https://en.smath.info/cloud/worksheet/RBeyXu4U)  
+* Pp 2.5: [cap2pp2_5](https://en.smath.info/cloud/worksheet/kxaP2GMB)  

@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?application progid="SMath Studio Desktop" version="0.98.6484.11448"?>
+<regions xmlns="http://smath.info/schemas/worksheet/1.0">
+  <settings>
+    <identity>
+      <id>a7424367-de96-4db2-a2f2-46bacedbab6b</id>
+      <revision>66</revision>
+    </identity>
+    <calculation>
+      <precision>4</precision>
+      <exponentialThreshold>5</exponentialThreshold>
+      <fractions>decimal</fractions>
+    </calculation>
+    <pageModel active="true" printAreas="true" simpleEqualsOnly="false" printBackgroundImages="true">
+      <paper id="1" orientation="Portrait" width="850" height="1100" />
+      <margins left="39" right="39" top="39" bottom="39" />
+      <header alignment="Center" color="#a9a9a9">&amp;[DATE] &amp;[TIME] - &amp;[FILENAME]</header>
+      <footer alignment="Center" color="#a9a9a9">&amp;[PAGENUM] / &amp;[COUNT]</footer>
+      <backgrounds />
+    </pageModel>
+    <dependencies>
+      <assembly name="SMath Studio Desktop" version="0.98.6484.11448" guid="a37cba83-b69c-4c71-9992-55ff666763bd" />
+      <assembly name="Math Region" version="0.98.6484.11448" guid="02f1ab51-215b-466e-a74d-5d8b1cf85e8d" />
+      <assembly name="Text Region" version="1.10.6484.11451" guid="485d28c5-349a-48b6-93be-12a35a1c1e39" />
+    </dependencies>
+  </settings>
+  <region id="0" left="18" top="18" width="206" height="29" color="#000000" bgColor="#ffffff" fontSize="14">
+    <text lang="por">
+      <p>Máquinas Elétricas</p>
+    </text>
+  </region>
+  <region id="1" left="18" top="54" width="158" height="26" color="#000000" bgColor="#ffffff" fontSize="12">
+    <text lang="por">
+      <p>Transformadores</p>
+    </text>
+  </region>
+  <region id="2" left="18" top="81" width="504" height="23" color="#000000" bgColor="#ffffff" fontSize="10">
+    <text lang="por">
+      <p>Autotransformadores, transformadores de múltiplos enrolamentos</p>
+    </text>
+  </region>
+  <region id="3" left="18" top="117" width="168" height="23" color="#000000" bgColor="#ffffff" fontSize="10">
+    <text lang="por">
+      <p>Problema Prático 2.7</p>
+    </text>
+  </region>
+  <region id="4" left="18" top="144" width="192" height="23" color="#000000" bgColor="#ffffff" fontSize="10">
+    <text lang="por">
+      <p>Dados do transformador:</p>
+    </text>
+  </region>
+  <region id="5" left="54" top="180" width="69" height="23" color="#000000" bgColor="#ffffff" fontSize="10">
+    <math>
+      <input>
+        <e type="operand">V1</e>
+        <e type="operand">460</e>
+        <e type="operand" style="unit">V</e>
+        <e type="operator" args="2">*</e>
+        <e type="operator" args="2">:</e>
+      </input>
+    </math>
+  </region>
+  <region id="6" left="54" top="198" width="85" height="23" color="#000000" bgColor="#ffffff" fontSize="10">
+    <math>
+      <input>
+        <e type="operand">V2</e>
+        <e type="operand">7.97</e>
+        <e type="operand" style="unit">kV</e>
+        <e type="operator" args="2">*</e>
+        <e type="operator" args="2">:</e>
+      </input>
+    </math>
+  </region>
+  <region id="7" left="54" top="216" width="79" height="23" color="#000000" bgColor="#ffffff" fontSize="10">
+    <math>
+      <input>
+        <e type="operand">P</e>
+        <e type="operand">450</e>
+        <e type="operand" style="unit">kV</e>
+        <e type="operator" args="2">*</e>
+        <e type="operand" style="unit">A</e>
+        <e type="operator" args="2">*</e>
+        <e type="operator" args="2">:</e>
+      </input>
+    </math>
+  </region>
+  <region id="8" left="54" top="243" width="77" height="23" color="#000000" bgColor="#ffffff" fontSize="10">
+    <math>
+      <input>
+        <e type="operand">η1</e>
+        <e type="operand">97.8</e>
+        <e type="operand" style="unit">%</e>
+        <e type="operator" args="2">*</e>
+        <e type="operator" args="2">:</e>
+      </input>
+    </math>
+  </region>
+  <region id="9" left="54" top="288" width="178" height="25" color="#000000" bgColor="#ffffff" fontSize="10">
+    <math>
+      <input>
+        <e type="operand">Perdas</e>
+        <e type="operand">P</e>
+        <e type="operand">1</e>
+        <e type="operand">η1</e>
+        <e type="operator" args="2">-</e>
+        <e type="bracket">(</e>
+        <e type="operator" args="2">*</e>
+        <e type="operator" args="2">:</e>
+      </input>
+      <result action="numeric">
+        <e type="operand">9900</e>
+        <e type="operand" style="unit">W</e>
+        <e type="operator" args="2">*</e>
+      </result>
+    </math>
+  </region>
+  <region id="10" left="54" top="324" width="154" height="39" color="#000000" bgColor="#ffffff" fontSize="10">
+    <math>
+      <input>
+        <e type="operand">I1'</e>
+        <e type="operand">P</e>
+        <e type="operand">V1</e>
+        <e type="operator" args="2">/</e>
+        <e type="operator" args="2">:</e>
+      </input>
+      <result action="numeric">
+        <e type="operand">978.2609</e>
+        <e type="operand" style="unit">A</e>
+        <e type="operator" args="2">*</e>
+      </result>
+    </math>
+  </region>
+  <region id="11" left="54" top="378" width="83" height="23" color="#000000" bgColor="#ffffff" fontSize="10">
+    <math>
+      <input>
+        <e type="operand">Ialta</e>
+        <e type="operand">I1'</e>
+        <e type="operator" args="2">:</e>
+      </input>
+    </math>
+  </region>
+  <region id="12" left="54" top="414" width="159" height="23" color="#000000" bgColor="#ffffff" fontSize="10">
+    <math>
+      <input>
+        <e type="operand">Valta</e>
+        <e type="operand">V1</e>
+        <e type="operand">V2</e>
+        <e type="operator" args="2">+</e>
+        <e type="operator" args="2">:</e>
+      </input>
+      <result action="numeric">
+        <e type="operand">8430</e>
+        <e type="operand" style="unit">V</e>
+        <e type="operator" args="2">*</e>
+      </result>
+    </math>
+  </region>
+  <region id="13" left="54" top="432" width="142" height="23" color="#000000" bgColor="#ffffff" fontSize="10">
+    <math>
+      <input>
+        <e type="operand">Vbaixa</e>
+        <e type="operand">V2</e>
+        <e type="operator" args="2">:</e>
+      </input>
+      <result action="numeric">
+        <e type="operand">7970</e>
+        <e type="operand" style="unit">V</e>
+        <e type="operator" args="2">*</e>
+      </result>
+    </math>
+  </region>
+  <region id="14" left="54" top="477" width="227" height="23" color="#000000" bgColor="#ffffff" fontSize="10">
+    <math>
+      <input>
+        <e type="operand">P'</e>
+        <e type="operand">Ialta</e>
+        <e type="operand">Valta</e>
+        <e type="operator" args="2">*</e>
+        <e type="operator" args="2">:</e>
+      </input>
+      <contract>
+        <e type="operand" style="unit">kV</e>
+        <e type="operand" style="unit">A</e>
+        <e type="operator" args="2">*</e>
+      </contract>
+      <result action="numeric">
+        <e type="operand">8246.7391</e>
+      </result>
+    </math>
+  </region>
+  <region id="15" left="54" top="513" width="218" height="39" color="#000000" bgColor="#ffffff" fontSize="10">
+    <math>
+      <input>
+        <e type="operand">Ibaixa</e>
+        <e type="operand">P'</e>
+        <e type="operand">Vbaixa</e>
+        <e type="operator" args="2">/</e>
+        <e type="operator" args="2">:</e>
+      </input>
+      <result action="numeric">
+        <e type="operand">1034.7226</e>
+        <e type="operand" style="unit">A</e>
+        <e type="operator" args="2">*</e>
+      </result>
+    </math>
+  </region>
+  <region id="16" left="54" top="576" width="163" height="39" color="#000000" bgColor="#ffffff" fontSize="10">
+    <math>
+      <input>
+        <e type="operand">η2</e>
+        <e type="operand">1</e>
+        <e type="operand">Perdas</e>
+        <e type="operand">P'</e>
+        <e type="operator" args="2">/</e>
+        <e type="operator" args="2">-</e>
+        <e type="operator" args="2">:</e>
+      </input>
+      <contract>
+        <e type="operand" style="unit">%</e>
+      </contract>
+      <result action="numeric">
+        <e type="operand">99.88</e>
+      </result>
+    </math>
+  </region>
+</regions>
